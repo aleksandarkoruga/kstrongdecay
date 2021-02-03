@@ -1,0 +1,26 @@
+class:: KStrongDecay
+summary:: K/S sim with decay
+related:: TODO
+categories:: UGens>TODO
+
+description::
+
+K/S sim with decay
+
+
+classmethods::
+
+method::ar, kr
+
+argument::TODO
+
+argument::TODO
+
+
+examples::
+
+code::
+
+{ KStrongDecay.ar(/* TODO */) }.play
+
+::
